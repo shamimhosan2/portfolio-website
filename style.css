@@ -192,6 +192,22 @@ input{
 .contact a{
     text-decoration: none;
 }
-.section-description{
 
+/*last section o rufa footer*/
+.name{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 60px;
+
+}
+.use-project{
+    text-align: center;
+    font-weight: 700;
+}
+.color-change{
+    color: orange;
+}
+.view{
+    margin-top: 60px;
+    margin-bottom: 100px;
 }
