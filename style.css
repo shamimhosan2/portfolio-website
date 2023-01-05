@@ -8,7 +8,7 @@
 /*the header main navigaiton start full fil*/
 .header{
     background: #fff8f3;
-    background-image: url("header_bg.png" ), url("developer.png");
+    background-image: url("image/header_bg.png" ), url("image/developer.png");
     background-repeat: no-repeat;
     background-position: bottom right,left;
 }
