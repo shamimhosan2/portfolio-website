@@ -15,7 +15,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 
@@ -188,4 +188,10 @@ margin-bottom: 30px;
 }
 input{
     height: 64px;
+}
+.contact a{
+    text-decoration: none;
+}
+.section-description{
+
 }
