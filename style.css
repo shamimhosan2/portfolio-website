@@ -100,7 +100,7 @@ margin-bottom: 30px;
 
 /* what i do it because i can do it*/
 .what-i-do{
-    margin-top: 130px;
+    margin-top: 200px;
 }
 .skills-container{
     display: flex;
@@ -109,6 +109,8 @@ margin-bottom: 30px;
 .skil-title{
     font-weight: 700;
     font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 .skill-description{
     color: #757575;
@@ -123,8 +125,44 @@ margin-bottom: 30px;
 .section-title{
     text-align: center;
     font-weight: 700;
-    margin-bottom: 30px;
-    font-size: 35px;
+    margin-bottom: 53px;
+    margin-top: 60px;
+    font-size: 37px;
 
 }
+.section-titles{
+    margin-top: 0px;
+    font-size: 37px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 65px;
+}
 /*start Rusume section start me and my project*/
+.resume-contant{
+    display: flex;
+    gap: 24px;
+}
+
+.resume .title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25;
+    margin-bottom: 10px;
+}
+.resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume .description{
+    color: #757575;
+}
+.resume-item{
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
